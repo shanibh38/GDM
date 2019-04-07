@@ -1,0 +1,20 @@
+{
+  "name": "project_GDM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanibh38/GDM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanibh38/GDM/issues"
+  },
+  "homepage": "https://github.com/shanibh38/GDM#readme"
+}
